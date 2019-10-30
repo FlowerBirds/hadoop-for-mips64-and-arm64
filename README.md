@@ -5,3 +5,5 @@ Hadoop binary or native library for mips64 and arm64, especially for linux dynam
 ## Arm64 hadoop binary
 - binaries compiled for arm64 linux. ([https://github.com/owlab-exp/hadoop-arm64](https://github.com/owlab-exp/hadoop-arm64 "binaries compiled for arm64 linux"))
 
+## Mips64 hadoop native
+- TODO
