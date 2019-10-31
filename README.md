@@ -7,3 +7,6 @@ Hadoop binary or native library for mips64 and arm64, especially for linux dynam
 
 ## Mips64 hadoop native
 - hadoop 2.7.2 native library. [have a look](./hadoop-mips64)
+
+## Mips64 LevelDB library
+- the libleveldbjni.so of 1.22
